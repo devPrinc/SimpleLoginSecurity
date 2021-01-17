@@ -1,0 +1,9 @@
+#Configure de acordo com os cargos do PermissionEx.
+Ranks:
+ Master: 'password123'
+ Admin: 'password123'
+ 
+#Configure o tempo que o jogador terá para efetuar a sua autenticação segura.
+Times:
+ TimeLogin: 10
+
